@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou Pedro Bandeira</h1>
 <p align="center">
-  <b>Desenvolvedor Flutter • Mobile • Apaixonado por inovação</b>
+  <b>Desenvolvedor Python • RAG • LangChain • Automações inteligentes</b>
 </p>
 
 ---
@@ -23,20 +23,28 @@
 
 ## 🚀 Projetos com orgulho
 
-| Projeto                    | Descrição                                    | Link                          |
-|----------------------------|----------------------------------------------|-------------------------------|
-| 📱 Meu App Flutter         | Aplicativo mobile completo                   | [Ver no GitHub](#)            |
-| 🌐 Painel Flutter Web      | Dashboard interativo                         | [Ver no GitHub](#)            |
-| 💼 Site Pessoal            | Portfólio responsivo com Flutter Web         | [Ver no GitHub](#)            |
+| Projeto                      | Descrição                                                      | Link               |
+|-----------------------------|----------------------------------------------------------------|--------------------|
+| 🤖 RAG com LangChain        | Sistema de perguntas e respostas com base em documentos        | [Ver no GitHub](#) |
+| 📄 Chat com PDFs            | Upload de PDFs + busca semântica + respostas com IA            | [Ver no GitHub](#) |
+---
+
+## 🧠 O que eu faço
+
+- 🔍 Construção de sistemas **RAG (Retrieval-Augmented Generation)**
+- 📚 Processamento de documentos (PDF, TXT, etc.)
+- 🧩 Criação de pipelines com **LangChain**
+- 🧠 Uso de embeddings e bancos vetoriais (FAISS, etc.)
 
 ---
 
 ## 🛠 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 </p>
 
 ---
@@ -53,4 +61,4 @@
 ## 💬 Vamos conversar?
 
 - 📩 Me chama no WhatsApp ou no LinkedIn  
-- 🚀 Sempre aberto para novas ideias, parcerias e projetos!
+- 🚀 Sempre aberto para projetos com IA, automação e inovação
