@@ -56,9 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-## 💬 Vamos conversar?
-
-- 📩 Me chama no WhatsApp ou no LinkedIn  
-- 🚀 Sempre aberto para projetos com IA, automação e inovação
