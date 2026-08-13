@@ -32,7 +32,7 @@
 ## 🧠 O que eu faço
 
 - 🔍 Construção de sistemas **RAG (Retrieval-Augmented Generation)**
-- 📚 Processamento de documentos (PDF, TXT, etc.)
+- 📚 Processamento de dados
 - 🧩 Criação de pipelines com **LangChain**
 - 🧠 Uso de embeddings e bancos vetoriais (FAISS, etc.)
 
